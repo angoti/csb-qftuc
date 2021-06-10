@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "https://.github.io/csb-qftuc/static/css/main.518ce94c.chunk.css",
-    "main.js": "https://.github.io/csb-qftuc/static/js/main.7ebc81d5.chunk.js",
-    "main.js.map": "https://.github.io/csb-qftuc/static/js/main.7ebc81d5.chunk.js.map",
-    "runtime-main.js": "https://.github.io/csb-qftuc/static/js/runtime-main.64be72e1.js",
-    "runtime-main.js.map": "https://.github.io/csb-qftuc/static/js/runtime-main.64be72e1.js.map",
-    "static/css/2.15a7a700.chunk.css": "https://.github.io/csb-qftuc/static/css/2.15a7a700.chunk.css",
-    "static/js/2.1d3b1738.chunk.js": "https://.github.io/csb-qftuc/static/js/2.1d3b1738.chunk.js",
-    "static/js/2.1d3b1738.chunk.js.map": "https://.github.io/csb-qftuc/static/js/2.1d3b1738.chunk.js.map",
-    "index.html": "https://.github.io/csb-qftuc/index.html",
-    "static/css/2.15a7a700.chunk.css.map": "https://.github.io/csb-qftuc/static/css/2.15a7a700.chunk.css.map",
-    "static/css/main.518ce94c.chunk.css.map": "https://.github.io/csb-qftuc/static/css/main.518ce94c.chunk.css.map",
-    "static/js/2.1d3b1738.chunk.js.LICENSE.txt": "https://.github.io/csb-qftuc/static/js/2.1d3b1738.chunk.js.LICENSE.txt"
+    "main.css": "https://angoti.github.io/csb-qftuc/static/css/main.518ce94c.chunk.css",
+    "main.js": "https://angoti.github.io/csb-qftuc/static/js/main.7bd92a2e.chunk.js",
+    "main.js.map": "https://angoti.github.io/csb-qftuc/static/js/main.7bd92a2e.chunk.js.map",
+    "runtime-main.js": "https://angoti.github.io/csb-qftuc/static/js/runtime-main.d2c75e59.js",
+    "runtime-main.js.map": "https://angoti.github.io/csb-qftuc/static/js/runtime-main.d2c75e59.js.map",
+    "static/css/2.15a7a700.chunk.css": "https://angoti.github.io/csb-qftuc/static/css/2.15a7a700.chunk.css",
+    "static/js/2.1d3b1738.chunk.js": "https://angoti.github.io/csb-qftuc/static/js/2.1d3b1738.chunk.js",
+    "static/js/2.1d3b1738.chunk.js.map": "https://angoti.github.io/csb-qftuc/static/js/2.1d3b1738.chunk.js.map",
+    "index.html": "https://angoti.github.io/csb-qftuc/index.html",
+    "static/css/2.15a7a700.chunk.css.map": "https://angoti.github.io/csb-qftuc/static/css/2.15a7a700.chunk.css.map",
+    "static/css/main.518ce94c.chunk.css.map": "https://angoti.github.io/csb-qftuc/static/css/main.518ce94c.chunk.css.map",
+    "static/js/2.1d3b1738.chunk.js.LICENSE.txt": "https://angoti.github.io/csb-qftuc/static/js/2.1d3b1738.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.64be72e1.js",
+    "static/js/runtime-main.d2c75e59.js",
     "static/css/2.15a7a700.chunk.css",
     "static/js/2.1d3b1738.chunk.js",
     "static/css/main.518ce94c.chunk.css",
-    "static/js/main.7ebc81d5.chunk.js"
+    "static/js/main.7bd92a2e.chunk.js"
   ]
 }
